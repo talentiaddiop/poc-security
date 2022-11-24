@@ -1,0 +1,10 @@
+jwt:
+  secret: secret
+
+server:
+  port: 8081
+tac:
+  url:
+    api:
+      accounting: http://localhost:8081
+
